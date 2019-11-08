@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>MRD126-Revised 1:Bedrock250k</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>-86.5</longitude>
+		<latitude>48.8</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>2000000</range>
+	</LookAt>
+	<NetworkLink>
+		<name>Logo</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Url>
+			<href>http://www.mndm.gov.on.ca/mines/data/google/ogsearth2/files/Logo/doc.kml</href>
+		</Url>
+	</NetworkLink>
+	
+	<NetworkLink>
+			<name>Legend</name>
+			<open>1</open>
+			<Snippet maxLines="2"><![CDATA[<a href='http://www.mndm.gov.on.ca/mines/data/google/mrd126/Legend/MRD126Rev1_Legend.pdf'>View Legend</a>]]></Snippet>
+			<Style>
+				<ListStyle>
+					<listItemType>checkHideChildren</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+	</NetworkLink>
+	
+	<Folder>
+		<name>MRD126-REV1</name>
+		<open>1</open>
+		<Snippet maxLines="2"><![CDATA[<b><i>Product Information and GIS Download</b>]]></Snippet>
+		<description><![CDATA[<i>Published 2011<br><br></i><b>1:250 000 Scale Bedrock Geology of Ontario</b><br><br><i>
+
+The Precambrian Geoscience Section, Ontario Geological Survey, has compiled a 1:250 000 scale map of the bedrock geology of Ontario. The map has recently been revised and updated and replaces the map previously released on Miscellaneous Release-Data 126-Revised. <b>This seamless GIS data set includes such themes as bedrock units, major faults, dike swarms, iron formations and kimberlites, and also includes an interpretation of the Precambrian bedrock geology underlying the Hudson Bay and James Bay lowlands Phanerozoic cover.</b> This product is intended for use at scales of 1:250 000 and smaller. Use of this product at larger, detailed scales will result in use for which this product was never intended. The 1:250 000 Scale Bedrock Geology of Ontario data are available in ESRI® shapefile format. The map project was constructed with ArcGIS® 9.3 software. Metadata and details of the ArcView® data sets and accompanying images are provided.
+<br><br>Ontario Geological Survey 2011. 1:250 000 scale bedrock geology of Ontario; Ontario Geological Survey, Miscellaneous Release---Data 126-Revision 1.<br><br>
+ The data are available on 1 CD-ROM. $20.00 or can be downloaded free of charge.<br><br>
+
+<a href='http://www.geologyontario.mndm.gov.on.ca/mndmaccess/mndm_dir.asp?type=pub&id=MRD126-REV1'>Download from Geology Ontario</a><br/>Or <br/><a href='http://www.infogo.gov.on.ca/infogo/office.do?actionType=servicedirectory&infoType=service&unitId=7102&locale=en'>Order from OGS Publication Sales</a>]]></description>
+		<NetworkLink>
+			<name>Kimberlite</name>
+			<Snippet maxLines="2"><![CDATA[<b>"Click"for More Information</b>]]></Snippet>
+			<description><![CDATA[<i>Kimberlite locations. Intrusive rocks with high contents of magnesium, iron and alkali elements. Commonly porphyritic with phenocrysts of olivine, phlogopite and garnet. Generally has a brecciated or fragmental texture.]]></description>
+			<Style>
+				<ListStyle>
+					<listItemType>checkHideChildren</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+			<Url>
+				<href>http://www.mndm.gov.on.ca/mines/data/google/MRD126/files/KIM.kmz</href>
+			</Url>
+		</NetworkLink>
+		<NetworkLink>
+			<name>Iron Formations</name>
+			<Snippet maxLines="2"><![CDATA[<b>"Click"for More Information</b>]]></Snippet>
+			<description><![CDATA[<i>Unit 7c consisting of Precambrian metasedimentary rocks made up of marble, chert, iron formation and minor metavolcanic rocks. Iron formations consist of beds of quartz or carbonate alternating with iron-rich beds consisting of iron-rich minerals such as magnetite, pyrite, iron carbonate or iron silicates.]]></description>
+			<Style>
+				<ListStyle>
+					<listItemType>checkHideChildren</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+			<Url>
+				<href>http://www.mndm.gov.on.ca/mines/data/google/MRD126/files/Iron.kmz</href>
+			</Url>
+		</NetworkLink>
+		<NetworkLink>
+			<name>Dikes</name>
+			<Style>
+				<ListStyle>
+					<listItemType>checkHideChildren</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+			<Url>
+				<href>http://www.mndm.gov.on.ca/mines/data/google/MRD126/files/Dikes.kmz</href>
+			</Url>
+		</NetworkLink>
+		<NetworkLink>
+			<name>Faults</name>
+			<Style>
+				<ListStyle>
+					<listItemType>checkHideChildren</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+			<Url>
+				<href>http://www.mndm.gov.on.ca/mines/data/google/MRD126/files/faults.kmz</href>
+			</Url>
+		</NetworkLink>
+		<Folder>
+			<name>Bedrock Geology</name>
+			<open>1</open>
+			<Style>
+				<ListStyle>
+					<listItemType>radioFolder</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+			<Folder>
+				<name>Bedrock Geology Without Lowlands</name>
+				<Snippet maxLines="2"><![CDATA[<b>"Click"for More Information</b>]]></Snippet>
+				<description><![CDATA[<i>This feature class shows an interpretation of the Precambrian bedrock underlying the Hudson Bay and James Bay lowlands Phanerozoic cover. This cover is a broad area of Paleozoic to Mesozoic cover that extends over a significant portion of the Precambrian rocks in northern Ontario.]]></description>
+				<Style>
+					<ListStyle>
+						<listItemType>checkHideChildren</listItemType>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+				<NetworkLink>
+					<Style>
+						<ListStyle>
+							<listItemType>checkHideChildren</listItemType>
+							<bgColor>00ffffff</bgColor>
+							<maxSnippetLines>2</maxSnippetLines>
+						</ListStyle>
+					</Style>
+					<Url>
+						<href>http://www.mndm.gov.on.ca/mines/data/google/MRD126/files/no_paleo/doc.kml</href>
+					</Url>
+				</NetworkLink>
+				<NetworkLink>
+					<name>Bedrock Geology</name>
+					<Style>
+						<ListStyle>
+							<listItemType>checkHideChildren</listItemType>
+							<bgColor>00ffffff</bgColor>
+							<maxSnippetLines>2</maxSnippetLines>
+						</ListStyle>
+					</Style>
+					<Url>
+						<href>http://www.mndm.gov.on.ca/mines/data/google/MRD126/files/no_paleo_png/doc.kml</href>
+					</Url>
+				</NetworkLink>
+			</Folder>
+			<Folder>
+				<name>Bedrock Geology With Lowlands</name>
+				
+				<Snippet maxLines="2"><![CDATA[<b>"Click"for More Information</b>]]></Snippet>
+				<description><![CDATA[<i>This feature class shows the distribution of bedrock units underlying Ontario. The geology of the province consists of Precambrian rocks of the Canadian Shield and Phanerozoic sedimentary rocks that overlie the Canadian Shield.]]></description>
+				<Style>
+					<ListStyle>
+						<listItemType>checkHideChildren</listItemType>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+				<NetworkLink>
+					
+					<Style>
+						<ListStyle>
+							<listItemType>checkHideChildren</listItemType>
+							<bgColor>00ffffff</bgColor>
+							<maxSnippetLines>2</maxSnippetLines>
+						</ListStyle>
+					</Style>
+					<Url>
+						<href>http://www.mndm.gov.on.ca/mines/data/google/MRD126/files/paleo/doc.kml</href>
+					</Url>
+				</NetworkLink>
+				<NetworkLink>
+					<name>Bedrock Geology</name>
+					
+					<Style>
+						<ListStyle>
+							<listItemType>checkHideChildren</listItemType>
+							<bgColor>00ffffff</bgColor>
+							<maxSnippetLines>2</maxSnippetLines>
+						</ListStyle>
+					</Style>
+					<Url>
+						<href>http://www.mndm.gov.on.ca/mines/data/google/MRD126/files/paleo_png/doc.kml</href>
+					</Url>
+				</NetworkLink>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

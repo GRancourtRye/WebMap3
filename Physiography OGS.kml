@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>MRD228</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>-79.25</longitude>
+		<latitude>44.5</latitude>
+		<altitude>0</altitude>
+		<range>680000</range>
+		<tilt>1.743751201793569e-014</tilt>
+		<heading>1.334503351371925e-014</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	
+	<NetworkLink>
+		<name>Logo</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Url>
+			<href>http://www.mndm.gov.on.ca/mines/data/google/ogsearth2/files/Logo/doc.kml</href>
+		</Url>
+	</NetworkLink>
+	
+	<NetworkLink>
+		<name>Legend</name>
+		<open>1</open>
+		<Snippet maxLines="2"><![CDATA[<a href='http://www.mndm.gov.on.ca/mines/data/google/MRD228/Legend/MRD228_Legend.pdf'>View Legend</a>]]></Snippet>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</NetworkLink>
+	
+	<Folder>
+		<name>Physiography of Southern Ontario</name>
+		<open>1</open>
+		<Snippet maxLines="2"><![CDATA[<b><i>Product Information and GIS Download</b>]]></Snippet>
+		<description><![CDATA[<i>Published 2007<br><br></i><b>Physiography of Southern Ontario</b><br><br><i>
+
+Physiography of Southern Ontario was first printed in 1951 and was republished and updated in 1966 and 1984. This historical publication has only been available as hard-copy colour maps and an associated hard-cover book. Physiography of Southern Ontario has for many years been of value to engineers, scientists, students, teachers and the public interested in physical structure of the southern portion of the province. The Physiography of Southern Ontario map remains an important, highly used publication which complements the 1:50 000 scale surficial mapping that covers most of southern Ontario. The Sedimentary Geoscience Section, Ontario Geological Survey, has captured the physiographic information protrayed on this map in an attributed GIS-based map. The map data are provided as ESRI® ArcInfo® coverages in geographic coordinate system NAD83, decimal degrees. The map data set consists of 4 coverages capturing information on the physical structure of southern Ontario; linear features, such as beaches and escarpments; point features, such as dunes and mud flow scars; as well as landforms (drumlins and moraines) and physiographic regions. Data are available in ArcGIS® with a completed project file (.mxd).
+<br><br><b>Chapman, L.J. and Putnam, D.F. 2007. Physiography of southern Ontario; Ontario Geological Survey, Miscellaneous Release--Data 228.</b><br><br>
+ The data are available on 1 CD-ROM. $20.00 or can be downloaded free of charge.<br><br>
+
+<a href='http://www.geologyontario.mndm.gov.on.ca/mndmaccess/mndm_dir.asp?type=pub&id=MRD228'>Download from Geology Ontario</a><br/>Or <br/><a href='http://www.infogo.gov.on.ca/infogo/office.do?actionType=servicedirectory&infoType=service&unitId=7102&locale=en'>Order from OGS Publication Sales</a> 
+]]></description>
+		
+		
+
+
+		<NetworkLink>
+				<name>Point Features</name>
+				<Snippet maxLines="2"><![CDATA[<b><i>"Click"for More Information</b>]]></Snippet>
+				<description><![CDATA[<i>Captures point features such as sand dunes and Mud Flow Scars.]]></description>
+				<Style>
+					<ListStyle>
+						<listItemType>checkHideChildren</listItemType>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+				<Url>
+					<href>http://www.mndm.gov.on.ca/mines/data/google/mrd228/physio_point/doc.kml</href>
+				</Url>
+		</NetworkLink>	
+
+
+		<NetworkLink>
+				<name>Linear Features</name>
+				<Snippet maxLines="2"><![CDATA[<b><i>"Click"for More Information</b>]]></Snippet>
+				<description><![CDATA[<i>Captures linear features such as escarpments and shorecliffs.]]></description>
+				<Style>
+					<ListStyle>
+						<listItemType>checkHideChildren</listItemType>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+						</Style>
+				<Url>
+					<href>http://www.mndm.gov.on.ca/mines/data/google/mrd228/physio_line/doc.kml</href>
+				</Url>
+		</NetworkLink>
+		<Folder>
+					<name>Landforms and Regions</name>
+					<open>1</open>
+					<Style>
+						<ListStyle>
+							<listItemType>radioFolder</listItemType>
+							<bgColor>00ffffff</bgColor>
+							<maxSnippetLines>2</maxSnippetLines>
+						</ListStyle>
+			</Style>
+		<NetworkLink>
+				<name>Physiographic Landforms</name>
+				<Snippet maxLines="2"><![CDATA[<b><i>"Click"for More Information</b>]]></Snippet>
+				<description><![CDATA[<i>Geological landforms such as drumlins and moraines.]]></description>
+				<Style>
+					<ListStyle>
+						<listItemType>checkHideChildren</listItemType>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+				<Url>
+					<href>http://www.mndm.gov.on.ca/mines/data/google/mrd228/physio_poly/doc.kml</href>
+				</Url>
+		</NetworkLink>
+		<NetworkLink>
+				<name>Physiographic Regions</name>
+				<visibility>0</visibility>
+				<Snippet maxLines="2"><![CDATA[<b><i>"Click"for More Information</b>]]></Snippet>
+				<description><![CDATA[<i>A data layer outlining the physiographic regions of Southern Ontario has been included with the map dataset. The layer was developed from <i>figure 19 of L.J. Chapman and D.F. Putnam’s 1984 edition of The Physiography of Southern Ontario.</i> A desktop study completed by the OGS saw the contact lines between the regions modified to conform with the landform polygons shown on the map. These modifications may imply a level of accuracy to the region boundaries never intended by Chapman and Putnam. As such, the user should view the outlines of the physiographic regions as approximations only.]]></description>
+				<Style>
+					<ListStyle>
+						<listItemType>checkHideChildren</listItemType>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+				<Url>
+					<href>http://www.mndm.gov.on.ca/mines/data/google/mrd228/regions_poly/doc.kml</href>
+				</Url>
+		</NetworkLink>	
+	</Folder>		
+	</Folder>
+	</Document>
+</kml>
